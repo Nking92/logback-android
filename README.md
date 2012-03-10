@@ -76,7 +76,7 @@ Logback-Android is built from [Ant][16], using the Android SDK.
  [7]: http://logback.qos.ch/manual/index.html
  [8]: http://tony19.github.com/logback-android/doc/1.0.0-4/
  [9]: mailto:logback-user@qos.ch
- [13]: https://github.com/downloads/tony19/logback-android/logback-android-1.0.0-4.jar 
- [14]: https://github.com/downloads/tony19/logback-android/slf4j-api-1.6.4.jar
+ [13]: https://github.com/downloads/qos-ch/logback-android/logback-android-1.0.0-4.jar
+ [14]: https://github.com/downloads/qos-ch/logback-android/slf4j-api-1.6.4.jar
  [15]: http://developer.android.com/sdk/index.html
  [16]: http://ant.apache.org/
