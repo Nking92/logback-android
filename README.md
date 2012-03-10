@@ -1,3 +1,9 @@
+------------------------------------------------------------------------
+# _This project has moved to [qos-ch/logback-android](https://github.com/qos-ch/logback-android) <br>and will be deleted May 9, 2012._
+------------------------------------------------------------------------
+
+
+
 <h1><a href="http://tony19.github.com/logback-android/"><img src="http://tony19.github.com/logback-android/img/lblogo-72x72.png" width="64" height="64" hspace="4" vspace="4" valign="middle"/></a> logback-android</h1>
 
 
